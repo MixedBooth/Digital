@@ -1,10 +1,18 @@
-# 🎆 Promo & Cost
+# 🎆 Services
 
-* [ ] **Telegram Announcement Channel:**   ------------------ = 2 BNB
-* [ ] **Telegram Main Group:**   ------------------ = 2 BNB
-* [ ] **Official Twitter:**   ------------------ = 2 BNB
-* [ ] **Presale Price Bot:**   ------------------ = 2 BNB\
+https://mixedbooth.com/services/
 
+* [ ] Cryptocurrency Development. Coin & Token.
+* [ ] Exchange Development. CEX, & DEX.
+* [ ] Crypto Launchpad. Presale & ICO.
+* [ ] Crypto Design Service
+* [ ] Blockchain Projects
+* [ ] Crypto Marketing
+* [ ] Wallet & App
+* [ ] Staking, Chart, Swap
+* [ ] NFT, Dapp, Web3
+* [ ] Creative Writing
+* [ ] Project Management
+* [ ] And Many More
 
-👉**Altogether Offer Price = 5 BNB (Channel + Group + Twitter + Presale Price Bot)**
-
+👉 **Check More details on our official website: https://mixedbooth.com/**
