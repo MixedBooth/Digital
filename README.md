@@ -10,7 +10,7 @@ We Are A Strong, Well Organized, Expert, Responsible, And Experienced Team. We P
 Blockchain
 
 Cryptocurrency
-Coin & Token
+**Coin & Token
 
 Exchange
 Launchpad
