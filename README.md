@@ -43,3 +43,5 @@ Marketing
 **Read More About Crypto: https://mixedbooth.com/blog/**
 
 **Contact With Us: https://mixedbooth.com/contact/**
+
+**Official Telegram: https://t.me/MixedBooth**
